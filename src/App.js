@@ -38,7 +38,7 @@ function App() {
       setPrimerTermino(0 + value);
     }
   };
-
+//
   const calcularResultado = () => {
     setInput(evaluate(primerTermino));
   };
