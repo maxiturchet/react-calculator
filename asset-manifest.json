@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/maxiturchet/react-calculator/static/css/main.f710a357.css",
-    "main.js": "/maxiturchet/react-calculator/static/js/main.991337c4.js",
-    "static/media/calculadora.png": "/maxiturchet/react-calculator/static/media/calculadora.7e65b3a4493dfa21b87c.png",
-    "index.html": "/maxiturchet/react-calculator/index.html",
-    "main.f710a357.css.map": "/maxiturchet/react-calculator/static/css/main.f710a357.css.map",
-    "main.991337c4.js.map": "/maxiturchet/react-calculator/static/js/main.991337c4.js.map"
+    "main.css": "/react-calculator/static/css/main.f710a357.css",
+    "main.js": "/react-calculator/static/js/main.5e6eccaa.js",
+    "static/media/calculadora.png": "/react-calculator/static/media/calculadora.7e65b3a4493dfa21b87c.png",
+    "index.html": "/react-calculator/index.html",
+    "main.f710a357.css.map": "/react-calculator/static/css/main.f710a357.css.map",
+    "main.5e6eccaa.js.map": "/react-calculator/static/js/main.5e6eccaa.js.map"
   },
   "entrypoints": [
     "static/css/main.f710a357.css",
-    "static/js/main.991337c4.js"
+    "static/js/main.5e6eccaa.js"
   ]
 }
