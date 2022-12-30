@@ -1,5 +1,5 @@
 .boton-contenedor{
-  height: 95px;
+  height: 90%;
   display: flex;
   flex:1 1;
   justify-content: center;
@@ -10,7 +10,7 @@
   color: #fff;
   border: 2px solid #fff;
   border-radius: 25px;
-  margin: 4px;
+  margin: 1%;
   cursor: pointer;
   user-select: none;
 }
@@ -25,4 +25,18 @@
 
 .operador:hover{
   background-color: #ff6600;
+}
+
+@media screen and (max-width: 768px){
+  .boton-contenedor{
+    font-size: 30px;
+    margin: 1%;
+  }
+}
+
+@media screen and (max-width: 360px){
+  .boton-contenedor{
+    font-size: 20px;
+    margin: 1%;
+  }
 }

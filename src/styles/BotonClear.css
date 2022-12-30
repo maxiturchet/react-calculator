@@ -1,10 +1,9 @@
 .boton-clear{
-  height: 100px;
+  height:90%;
   font-size: 1.6em;
   display: flex;
   flex: 1;
   background-color: #ac0246;
-  margin-top: 20px;
   justify-content: center;
   align-items: center;
   font-weight: bold;
@@ -16,4 +15,24 @@
 
 .boton-clear:hover{
   background-color: #ebb000;
+}
+
+@media screen and (max-width: 768px){
+  .boton-clear{
+    height: 80%;
+    display: flex;
+    font-size: 30px;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+}
+
+@media screen and (max-width: 360px){
+  .boton-clear{
+      height: 80%;
+      display: flex;
+      font-size: 1em;
+      margin-top: 4%;
+      margin-bottom: 4%;
+  }
 }
